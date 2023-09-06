@@ -1,4 +1,5 @@
 #!/bin/bash
+# Tested on pop-os 6.4.6-76060406 and kali 6.4.0
 
 # Verify if 'nmap' is installed on the system.
 if ! command -v nmap &> /dev/null
